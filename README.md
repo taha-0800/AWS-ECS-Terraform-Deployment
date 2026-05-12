@@ -25,13 +25,13 @@ demonstrating horizontal load balancing in a real-world cloud environment.
 - AWS CloudWatch
 ## Project Structure
 ├── app/
-│   ├── app.py
-│   ├── Dockerfile
-│   └── requirements.txt
+    ├── app.py
+    ├── Dockerfile
+    └── requirements.txt
 ├── Terraform/
-│   ├── backend/
-│   ├── networking/
-│   └── ecs/
+    ├── backend/
+    ├── networking/
+    └── ecs/
 └── README.md
 ## Prerequisites
 - AWS CLI configured with valid credentials
